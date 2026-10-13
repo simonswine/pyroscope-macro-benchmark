@@ -1,5 +1,7 @@
 # Pyroscope macro-benchmark reports
 
+- [2026-10-10-measuring-alpaca](https://simonswine.github.io/pyroscope-macro-benchmark/2026-10-10-measuring-alpaca/) — [source](2026-10-10-measuring-alpaca/index.html)
+
 - [2026-09-28-082222-observing-puffin](https://simonswine.github.io/pyroscope-macro-benchmark/2026-09-28-082222-observing-puffin/) — [source](2026-09-28-082222-observing-puffin/index.html)
 - [2026-09-25-133523-inspecting-puffin](https://simonswine.github.io/pyroscope-macro-benchmark/2026-09-25-133523-inspecting-puffin/) — [source](2026-09-25-133523-inspecting-puffin/index.html)
 
